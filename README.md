@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Projects that solve real world problem
 - 📫 How to reach me: myself.yashika03@gmail.com
 - ⚡ Hobbies:Playing Badminton
-  
+ <div align="center"> 
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
@@ -20,3 +20,4 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+</div>
