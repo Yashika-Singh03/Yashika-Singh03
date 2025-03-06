@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Yashika Singh**
+**I am Yashika Singh**
 
 
 - 🔭 I’m currently working on ...Virtual Mouse using OpenCV
