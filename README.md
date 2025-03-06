@@ -25,6 +25,7 @@
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/yashika-singh-784713229/"></a>
+ <a href="https://www.linkedin.com/in/yashika-singh-784713229/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/Yashika-Singh03" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
  
