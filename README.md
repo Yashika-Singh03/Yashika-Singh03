@@ -21,3 +21,11 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 </div>
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/yashika-singh-784713229/"></a>
+    <a href="https://github.com/Yashika-Singh03" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+ 
+</div>
