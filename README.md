@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on Projects that solve real world problem
 - 📫 How to reach me: myself.yashika03@gmail.com
 - ⚡ Hobbies:Playing Badminton
+  <h3><p align="center"><img src="https://komarev.com/ghpvc/?username=Yashika-Singh03&label=Profile%20views&color=6805D3&style=flat" alt="Yashika Singh" /></p></h3>
  <div align="center"> 
 <h1>Technical Skills 🛠</h1>
 
